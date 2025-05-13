@@ -1,8 +1,7 @@
 #  Advanced Medical Record Document Clustering and Analysis System
 
-> **A scalable, AI-powered platform for organizing, analyzing, and interacting with unstructured electronic health records (EHRs)**
+**A scalable, AI-powered platform for organizing, analyzing, and interacting with unstructured electronic health records (EHRs)**
 
----
 
 ## Project Overview
 
