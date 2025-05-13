@@ -28,7 +28,7 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 
-GOOGLE_API_KEY = "AIzaSyD4IQzP34KF_VI3rUYhuGumIAhYLBgAHbg"
+GOOGLE_API_KEY = "GOOGLE_API_KEY"
 genai.configure(api_key=GOOGLE_API_KEY)
 
 class DocumentProcessor:
