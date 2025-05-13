@@ -1,0 +1,16 @@
+streamlit>=1.22.0
+numpy>=1.23.5
+pandas>=1.5.3
+PyMuPDF>=1.22.3
+umap-learn>=0.5.3
+hdbscan>=0.8.29
+scikit-learn>=1.2.2
+sentence-transformers>=2.2.2
+langchain>=0.0.267
+langchain-community>=0.0.11
+faiss-cpu>=1.7.4
+python-docx2txt>=0.8
+openpyxl>=3.1.2
+PyPDF2>=3.0.1
+docx2txt>=0.9
+python-dotenv>=1.0.0
